@@ -19,6 +19,7 @@ var CONTOLLER_SCRIPTS = [
     "grab.js",
     //"toggleAdvancedMovementForHandControllers.js",
     "handTouch.js",
+    "mouseLook.js",
     //"controllerDispatcher.js",
     "controllerModules/nearParentGrabOverlay.js",
     "controllerModules/stylusInput.js",
